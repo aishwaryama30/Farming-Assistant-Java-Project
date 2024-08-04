@@ -75,7 +75,7 @@ public class PrintForm extends javax.swing.JFrame {
 
         jLabel2.setText("By Farming Assistant");
 
-        jLabel3.setText("Team CODEX, Daffodil International University");
+        jLabel3.setText("Dayananda Sagar Academy of Technology and Management");
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 10)); // NOI18N
         jLabel4.setText("_____________________________________________________________________________________________________________________________________________________");
